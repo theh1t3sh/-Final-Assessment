@@ -64,6 +64,6 @@ Simply open final.html in any modern web browser!
 
 This project represents my journey in mastering fundamental algorithms while developing an eye for modern web design. The combination of technical problem-solving and creative presentation showcases my versatility as a developer.
 
-    "First, solve the problem. Then, write the code." - John Johnson
+    "First, solve the problem. Then, write the code." 
 
 Developed with ❤️ for the final assessment **Hitesh Sharma | 11-07-2025**
