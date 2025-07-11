@@ -59,13 +59,6 @@ Simply open final.html in any modern web browser!
 ![Design Philosophy](https://github.com/theh1t3sh/-Final-Assessment/blob/main/scr/imgg.svg)
 
 
-### 🔮 Future Enhancements
-
-    Add JavaScript interactivity to the webpage
-
-    Implement GUI versions of the Java programs
-
-    Create a unified theme across all components
 
 ### 📝 Final Thoughts
 
