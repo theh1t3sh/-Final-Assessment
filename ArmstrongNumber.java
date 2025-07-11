@@ -1,3 +1,5 @@
+//Write a Java program to check if the given number is a Armstrong number.
+
 public class ArmstrongNumber {
     public static void main(String[] args) {
         int num = 153,
