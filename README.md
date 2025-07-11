@@ -66,5 +66,4 @@ This project represents my journey in mastering fundamental algorithms while dev
 
     "First, solve the problem. Then, write the code." - John Johnson
 
-Developed with ❤️ for the final assessment
-[Your Name] | [Date]
+Developed with ❤️ for the final assessment **Hitesh Sharma | 11-07-2025**
