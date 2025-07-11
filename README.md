@@ -56,6 +56,9 @@ Web Page
 Simply open final.html in any modern web browser!
 ### 🎨 Design Philosophy
 
+![Design Philosophy](https://github.com/theh1t3sh/-Final-Assessment/blob/main/scr/imgg.svg)
+
+
 ### 🔮 Future Enhancements
 
     Add JavaScript interactivity to the webpage
